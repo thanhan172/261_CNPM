@@ -1,0 +1,58 @@
+[
+  {
+    "id": "1",
+    "name": "Iphone 18 pro",
+    "price" : 30000,
+    "cate_id": "1",
+    "image": "https://cdn.mediamart.vn/images/product/apple-iphone-17-256gb-den_30c34d5d.webp"
+  },
+  {
+    "id": "2",
+    "name": "Iphone 17 pro",
+    "price" : 20000,
+    "cate_id": "1",
+    "image": "https://cdn.mediamart.vn/images/product/apple-iphone-17-256gb-den_30c34d5d.webp"
+  },
+  {
+    "id": "3",
+    "name": "Ipad pro",
+    "price" : 30000,
+    "cate_id": "2",
+    "image": "https://macmall.vn/uploads/ipad-pro-12-9inch-spacegray_1715497860.png"
+  },
+  {
+    "id": "4",
+    "name": "Laptop pro",
+    "price" : 30000,
+    "cate_id": "3",
+    "image": "https://www.cnet.com/wp-content/uploads/sites/2/a607f46f-73e9-4382-a9f7-b0b13093156e.png?resize=1200,1200"
+  },
+{
+    "id": "5",
+    "name": "Iphone 18 pro",
+    "price" : 30000,
+    "cate_id": "1",
+    "image": "https://cdn.mediamart.vn/images/product/apple-iphone-17-256gb-den_30c34d5d.webp"
+  },
+  {
+    "id": "6",
+    "name": "Iphone 17 pro",
+    "price" : 20000,
+    "cate_id": "1",
+    "image": "https://cdn.mediamart.vn/images/product/apple-iphone-17-256gb-den_30c34d5d.webp"
+  },
+  {
+    "id": "7",
+    "name": "Ipad pro",
+    "price" : 30000,
+    "cate_id": "2",
+    "image": "https://macmall.vn/uploads/ipad-pro-12-9inch-spacegray_1715497860.png"
+  },
+  {
+    "id": "8",
+    "name": "Laptop pro",
+    "price" : 30000,
+    "cate_id": "3",
+    "image": "https://www.cnet.com/wp-content/uploads/sites/2/a607f46f-73e9-4382-a9f7-b0b13093156e.png?resize=1200,1200"
+  }
+]
